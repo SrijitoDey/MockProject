@@ -1,0 +1,53 @@
+.skillsContainer{
+    max-width: 1300px;
+    margin: auto;
+    padding: 80px 70px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.skillsContainer h1{
+    font-size: 35px;
+    padding: 10px 0;
+}
+.skillsWrapper{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.innerSkillContainer{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    padding: 10px 30px;
+    /* align-items: center; */
+    justify-content: center;
+    box-sizing: border-box;
+    
+}
+
+.innerSkillContainer h3{
+    padding-right: 30px;
+    padding: 10px 0;
+    margin-bottom: 0;
+    flex: 0.3;
+    font-size: 18px;
+}
+
+.innerSkillContainer .progress{
+    width: 100%;
+    height:15px;
+    border-radius: 10px;
+}
+.innerSkillContainer .progress-bar{
+    background-color: white;
+    background-color: var(--primary-color);
+    color: black;
+}

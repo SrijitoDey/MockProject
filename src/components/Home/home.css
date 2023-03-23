@@ -1,0 +1,75 @@
+:root{
+    --primary-color : rgb(240, 159, 28);
+    --secondary-color : rgb(0, 0, 0);
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+#main-cont{
+    position:relative;
+}
+
+#res-back{
+    background:url(https://miro.medium.com/max/1400/1*K9Ok5GYZu78Q9kg519sXYQ.jpeg);
+    z-index: -2;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#cover{
+    background-color: var(--secondary-color);
+    opacity: 82%;
+    height: 100vh;
+    background-size: cover;
+    z-index: -1;
+    background-position: center;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    
+
+}
+
+#text-cont{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* background-color: wheat; */
+}
+
+#author{
+    font-size: 70px;
+    color: var(--primary-color);
+    text-decoration: solid;
+}
+
+#res-text{
+    font-size: 20px;
+    color: var(--primary-color);
+}
+
+#prof-sel{
+    text-decoration: none;
+    color: white;
+
+}
+
+#prof-sel:hover{
+    color: var(--primary-color);
+}
+
+@media screen and (max-width: 400px) {
+    
+}
