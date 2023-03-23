@@ -1,0 +1,7 @@
+.home, .education, .projects, .skills,.contact{
+    text-decoration: none !important;
+}
+.home:hover,.education:hover,.projects:hover,.skills:hover,.contact:hover{
+    color: green;
+    font-size: 15px;
+}
