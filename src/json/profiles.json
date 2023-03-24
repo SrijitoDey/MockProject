@@ -1,0 +1,518 @@
+{
+  "profiles": [
+    {
+      "pno": "1000",
+      "aboutme": {
+        "name": "Ayushman Agrawal",
+        "image": "agrawal_ayushman.jpg", 
+        "summary": "Having great consistency in Productivity and Attendence while exhibiting a Positive Approach towards work. In light of challenging situations my Dedication, Versatile Nature, and Thinking Outside the Box qualities will ensure that I make meaningful contributions and also, help me in Broadcasting and Strenghthing my current skills and knowledge"
+      },
+      "deloitte": {
+        "summary": "Joined Deloitte on January 2023. Undergone through Frontend training on HTML/CSS,Javascript,React and Angular.",
+        "location": "Mumbai",
+        "dpn": "https://people.deloitte/profile/ayagrawal"
+      },
+      "professional": {
+        "skills": [
+          {
+            "skill": "HTML",
+            "level": 4
+          },
+          {
+            "skill": "CSS",    
+            "level": 4
+          },
+          {
+            "skill": "JQuery",
+            "level": 3
+          },
+          {
+            "skill": "Javascript",
+            "level": 4
+          },
+          {
+            "skill": "Angular",
+            "level": 3
+          },
+          {
+            "skill": "React",
+            "level": 3
+          }
+        ]
+      },
+      "education": [
+        {
+          "institution": "MIT WORLD PEACE UNIVERSITY",
+          "course": "B.Tech",
+          "location": "Pune",
+          "grade": "8.5",
+          "yop": "2022"
+        },
+        {
+          "institution": "Arihant Public School",
+          "course": "12TH",
+          "location": "Kota",
+          "grade": "75%",
+          "yop": "2018"
+        },
+        {
+          "institution": "Christ Church Boy's School",
+          "course": "10TH",
+          "location": "Jabalpur",
+          "grade": "7.4",
+          "yop": "2016"
+        }
+      ],
+      "project": [
+        {
+          "projectImg" :"aa_img1.jpg",
+          "title": "Personal Portfolio",
+          "desc": "My live personal portfolio website created mainly using HTML and CSS and Saas.",
+          "techstack":["HTML", "CSS", "SAAS"],
+          "git": ""
+        },
+        {
+          "projectImg" :"aa_img3.jpg",
+          "title": "Training Website",
+          "desc": "Created a training website mainly using HTML CSS and BOOTSTRAP",
+          "techstack":["HTML", "CSS", "LESS", "BOOTSTRAP"],
+          "git": ""
+        },
+        {
+          "projectImg" :"aa_img2.png",
+          "title": "Home Power Generation Using Hybrid Energy",
+          "desc": "Created a whole model of energy generation using Solar and Wind Energy",
+          "techstack":["Solidworks", "Fusion 360", "Simulink"],
+          "git": ""
+        }
+      ],
+      "contact": {
+        "email": "ayushmanagrawal43@gmail.com",
+        "telegram": "",
+        "phone": "9359792447"
+      },
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/ayushman-agrawal-0b5976192/",
+        "github": "https://github.com/ayush18201/DTA_Launchpad"
+      }
+    },
+    {
+      "pno": "2000",
+      "aboutme": {
+      "name": "Samruddha Kalke",
+      "image": "kalke_samruddha.jpeg",
+      "summary": "Having great consistency in Productivity and Attendence while exhibiting a Positive Approach towards work. In light of challenging situations my Dedication, Versatile Nature, and Thinking Outside the Box qualities will ensure that I make meaningful contributions and also, help me in Broadcasting and Strenghthing my current skills and knowledge"
+      },
+      "deloitte": {
+      "summery": "",
+      "location": "Mumbai",
+      "dpn": "" 
+      },
+      "professional": {
+      "skills": [
+        {
+        "skill": "ReactJs",
+        "level": 4
+        },
+        {
+        "skill": "JavaScript",
+        "level": 4.7
+        },
+        {
+          "skill": "ThreeJS",
+          "level": 3.7
+        },
+        {
+        "skill": "CSS",
+        "level": 4.9
+        },
+        {
+        "skill": "jQuery",
+        "level": 3
+        },
+        {
+        "skill": "Wordpress",
+        "level": 4
+        },
+        {
+          "skill": "Angular",
+          "level": 3.5
+        },
+        {
+          "skill": "NodeJs",
+          "level": 4
+        },
+        {
+          "skill": "Flask",
+          "level": 3
+        },
+        {
+          "skill": "Bootstrap",
+          "level": 4.5
+        }
+      ]
+      },
+      "education": [
+      {
+        "institution": "Vivekanand Education Society's Institute of Technology",
+        "course": "Electronics Engineering",
+        "location": "Mumbai",
+        "grade": "8.95",
+        "yop": "2022"
+      },
+      {
+        "institution": "Peoples Education Scoiety's Trust",
+        "course": "12th",
+        "location": "Mumbai",
+        "grade": "87.5%",
+        "yop": "2018"
+      },
+      {
+        "institution": "Lok Puram Public School",
+        "course": "10th",
+        "location": "Mumbai",
+        "grade": "85.4%",
+        "yop": "2016"
+      }
+      ],
+      "project": [
+        {
+          "projectImg":"sk_img2.jpg",
+          "title": "Personal Portfolio",
+          "desc": "My live personal portfolio website created mainly using ThreeJs and JavaScript. It covers different web development projects done by me and much more.",
+          "techstack":["ThreeJs" , "Javascript", "HTML", "CSS"],
+          "git": "https://github.com/Samruddha17/samruddha-kalke"
+        },
+        {
+          "projectImg" :"sk_img1.jpg",
+          "title": "Klay World",
+          "desc": "It is an ecommerce website for selling tiles online. It has full ecommerce functionality of payment and shipmentment. Mainly used FERN stack",
+          "techstack":["FERN stack", "CSS", "Javascript"],
+          "git": ""
+        },
+        {
+          "projectImg" :"sk_img3.jpg",
+          "title": "Elique Interiors",
+          "desc": "A custom Wordpress website to showcase different furnitures in a wide range of categories. Build using PHP Wordpress",
+          "techstack":["WordPress", "CSS", "Javascript"],
+          "git": ""
+        }
+      ],
+      "contact": {
+      "email": "sakalke@deloitte.com",
+      "telegram": "samkalke17",
+      "phone": "8850249323"
+      },
+      "social": {
+      "linkedin": "https://www.linkedin.com/in/samruddha-kalke-2688a11a5/",
+      "github": "https://github.com/Samruddha17"
+      }
+    },
+    {
+      "pno": "3000",    
+      "aboutme": {
+        "name": "Srijito Dey",
+        "image": "Dey_Srijito.jpg",
+        "summary": "Independent and detail-oriented engineering student with appetite for knowledge and proficiency in database management, problem-solving and app/web development, with a keen interest in machine learning and artificial intelligence."
+        },
+        "deloitte": {
+        "summary": "Independent and detail-oriented analyst with appetite for knowledge and proficiency in HTML5, Javascript, CSS3, jQuery, React JS, Angular JS.",
+        "location": "Mumbai",
+        "dpn": "https://people.deloitte/profile/srijdey",
+        "pno": 782940
+        },
+        "professional": {
+        "skills": [
+          {
+          "skill": "Html5",
+          "level": 4
+          },
+          {
+          "skill": "JavaScript",
+          "level": 4
+          },
+          {
+          "skill": "CSS3",
+          "level": 4
+          },
+          {
+          "skill": "SASS",
+          "level": 2
+          },
+          {
+          "skill": "LESS",
+          "level": 2
+          },
+          {
+          "skill": "React JS",
+          "level": 4
+          },
+          {
+          "skill": "Angular JS",
+          "level": 4
+          },
+          {
+            "skill": "Bootstrap",
+            "level": 4
+            }
+        ]
+        },
+        "education": [
+        {
+          "institution": "SRM Institute of Science And Technology",
+          "course": "CSE",
+          "location": "Chennai",
+          "grade": "8.76",
+          "yop": "2022"
+        },
+        {
+          "institution": "Ryan International School",
+          "course": "CBSE-Science",
+          "location": "Mumbai",
+          "grade": "73.8%",
+          "yop": "2018"
+        },
+        {
+          "institution": "Delhi Public School",
+          "course": "CBSE",
+          "location": "Mumbai",
+          "grade": "8.4",
+          "yop": "2016"
+        }
+        ],
+        "project": [
+          {
+            "projectImg" :"aa_img1.jpg",
+            "title": "Project 1",
+            "desc": "My live personal portfolio website created mainly using HTML and CSS and Saas.",
+            "techstack":["HTML", "CSS", "SAAS"],
+            "git": ""
+          },
+          {
+            "projectImg" :"aa_img3.jpg",
+            "title": "Project 2",
+            "desc": "Created a training website mainly using HTML CSS and BOOTSTRAP",
+            "techstack":["HTML", "CSS", "LESS", "BOOTSTRAP"],
+            "git": ""
+          },
+          {
+            "projectImg" :"aa_img2.png",
+            "title": "Project 3",
+            "desc": "Created a whole model of energy generation using Solar and Wind Energy",
+            "techstack":["Solidworks", "Fusion 360", "Simulink"],
+            "git": ""
+          }
+        ],
+        "contact": {
+        "email": "srijdey@deloitte.com",
+        "telegram": "",
+        "phone": "9833819762"
+        },
+        "social": {
+        "linkedin": "https://www.linkedin.com/in/srijito-dey-2b8175208",
+        "github": "https://github.com/SrijitoDey"
+        }
+    },
+    {
+      "pno": "4000",
+      "aboutme": {
+        "name": "Abhishek Waghmare",
+        "image": "waghmare_abhishek.jpg",
+        "summary": "Currently working as an Analyst in Deloitte USI (C&M portfolio).I hold a B.E degree in Computer engineering from University of Mumbai.Enthusiastic team player, a fast learner with creative problem-solving skills, good coding and communication skills."
+        },
+        "deloitte": {
+        "summary": "Joined Deloitte on January 2023. Undergone through Frontend training on HTML/CSS,Javascript,React and Angular.",
+        "location": "Mumbai",
+        "dpn": "https://people.deloitte/profile/wrameshrao"
+        },
+        "professional": {
+        "skills": [
+          {
+          "skill": "HTML/CSS",
+          "level": 5
+          },
+          {
+          "skill": "Javascript",
+          "level": 4
+          },
+          {
+          "skill": "React",
+          "level": 4
+          },
+          {
+          "skill": "Angular",
+          "level": 3
+          },
+          {
+          "skill": "Python",
+          "level": 5
+          },
+          {
+          "skill": "Django",
+          "level": 4
+          },
+          {
+          "skill": "Machine Learning",
+          "level": 4
+          },
+          {
+            "skill": "Bootstrap",
+            "level": 4
+          }  
+        ]
+        },
+        "education": [
+        {
+          "institution": "Vivekanand Education Society's Institute of Technology (VESIT)",
+          "course": "B.E (Computer Engineering)",
+          "location": "Mumbai",
+          "grade": "8.83",
+          "yop": "2022"
+        },
+        {
+          "institution": "Pratibha Niketan college",
+          "course": "HSC",
+          "location": "Nanded",
+          "grade": "76%",
+          "yop": "2017"
+        },
+        {
+          "institution": "M.P.H.S",
+          "course": "SSC",
+          "location": "Nanded",
+          "grade": "87%",
+          "yop": "2015"
+        }
+        ],
+        "project": [
+          {
+            "projectImg" :"aw_img5.webp",
+            "title": "Smart Voting System",
+            "desc": "Smart voting system is a decentralized system that uses Iris recognition, an automated method of biometric identification of Iris images to ensure a secure voting process and eradicate dummy votes.",
+            "techstack":["OpenCV","Blockchain","ReactJS"],
+            "git": ""
+          },
+          {
+            "projectImg" :"aw_img2.jpg",
+            "title": "Money Heaven",
+            "desc": "Money Heaven is a one-stop destination for financial services to help investors to track their investments in Equities,Cryptocurrencies and Insurance.",
+            "techstack":["Deep Learning","Django Framework"],
+            "git": "https://github.com/abhiwaghmare/Money-Heaven---The-Complete-Financial-Analyzer"
+          },
+          {
+            "projectImg" :"aw_img4.jpg",
+            "title": "ShrinkTheLink URL Shortner",
+            "desc": "ShrinkTheLink is the perfect free URL shortner for transforming long,ugly links into nice memorable and short URLs.",
+            "techstack":["Python","Django Framework","Heroku Platform"],
+            "git": "https://github.com/abhiwaghmare/ShrinkTheLink"
+          }
+        ],
+        "contact": {
+        "email": "wrameshrao@deloitte.com",
+        "telegram": "",
+        "phone": "9921197798"
+        },
+        "social": {
+        "linkedin": "https://in.linkedin.com/in/abhishek-waghmare",
+        "github": "https://github.com/abhiwaghmare/"
+        }
+    },
+    {
+      "pno": "782940",
+      "aboutme": {
+        "name": "Rahul Nair",
+        "image": "nair_rahul.png",
+        "summary": "As a recent graduate with a Bachelor's degree from SRM Institute of Science and Technology, I am excited to start my career as a Frontend Developer. I am passionate about creating visually appealing and user-friendly websites using my knowledge of HTML, CSS, JavaScript, React and Angular. Started my career with Deloitte as a campus hire is trained in front-end technologies and is self taught and gained experience through project via internship in embedded systems, C, C++, smart systems in hybrid vehicles and automation.I have worked in Internet of things, web apps and microcontroller"
+        },
+        "deloitte": {
+        "summary": "A campus hire who joined Deloitte in the month of Jan 2023, got selected in Customer & Marketing Profile. Have been trained under front-end technologies with and excellence record of clearing both stage gates at first attempt. The training included HTML/HTML5, CSS/CSS3 and JavaScript. Also trained in Bootstrap, SAAS and LESS. Contained course and assignments on React, Angular, Node.js and jQuery",
+        "location": "Hyderabad",
+        "dpn": "dpn profile url"
+        
+        },
+        "professional": {
+        "skills": [
+          {
+          "skill": "HTML/HTML5",
+          "level": 5
+          },
+          {
+          "skill": "CSS/CSS3",
+          "level": 4
+          },
+          {
+          "skill": "JavaScript",
+          "level": 4
+          },
+          {
+          "skill": "Jquery",
+          "level": 4
+          },
+          {
+          "skill": "Embedded C",
+          "level": 5
+          },
+          {
+          "skill": "Bootstrap",
+          "level": 5
+          }
+        ]
+        },
+        "education": [
+        {
+          "institution": "SRM Institute of Science and Technology",
+          "course": "BTech",
+          "location": "Chennai",
+          "grade": "9.11 CGPA",
+          "yop": "2022-05-15"
+        },
+        {
+          "institution": "Vijayagiri Public School",
+          "course": "12th - CBSE",
+          "location": "Thrissur",
+          "grade": "87%",
+          "yop": "2018-04-01"
+        },
+        {
+          "institution": "MNR School of Excellence",
+          "course": "10th",
+          "location": "Mumbai",
+          "grade": "10 CGPA",
+          "yop": "2016-05-01"
+        }
+        ],
+        "project": [
+          {
+            "projectImg" :"rn_img1.png",
+            "title": "Agami Arogya",
+            "desc": "Agami Arogya is a health monitor with remote doctor consulting facility, prescription maintenance, medicine reminders, vital monitoring with a combination of smart watch to monitor users with a user friendly app for display and webpage for the same, Agami Arogya provides two interfaces for patients and doctors.",
+            "techstack":["JavaScript","Embedded Systems","App Script"],
+            "git": "https://github.com/rrn04"
+          },
+          {
+            "projectImg" :"rn_img3.png",
+            "title": "AIQ and server room temperature controller",
+            "desc": "provides a combination of process of sensing several gas levels in the air along with the ambient temperature and humidity on LCD screen embedded with ESP8266 microcontroller and in mobile Application enabling to controll relays connected to appliances of server room.",
+            "techstack":["Embedded C","MQTT","Autodesk-Eagle"],
+            "git": "https://github.com/rrn04"
+          },
+          {
+            "projectImg" :"rn_img2.png",
+            "title": "Home Automation",
+            "desc": "Home automation system consists switches and sensors connected to a central hub from which the systems is controlled with a user-interface that is interacted via a wall mounted terminal and mobile application.",
+            "techstack":["HiveMQ","Google Assistant","Cpp"],
+            "git": "https://github.com/rrn04"
+          }
+        ],
+        "contact": {
+        "email": "rahulnair6@deloitte.com",
+        "telegram": "https://t.me/okay_macha",
+        "phone": "8104651040"
+        },
+        "social": {
+        "linkedin": "https://www.linkedin.com/in/rahul-nair-7202211aa/",
+        "github": "https://github.com/rrn04"
+        }
+      }
+  ]
+}
